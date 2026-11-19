@@ -1,0 +1,11 @@
+.build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+/signals_game
+/pipe_game
+*.o
+*.obj
+*.exe
+*.a
+*.out
